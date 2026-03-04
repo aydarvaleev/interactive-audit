@@ -2,7 +2,7 @@ import { Info } from 'lucide-react';
 
 export function ConclusionSection() {
   return (
-    <section className="mb-8 pt-8 border-t border-gray-200">
+    <section className="mb-8 pt-8 border-t border-gray-200 print:hidden">
       <h2 className="text-xl font-semibold text-blue-900 mb-4 pb-2 border-b-2 border-blue-600">
         8. Структура письменного заключения клиенту
       </h2>
